@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Elnahtawy;Ashraf;;;
+FN:Ashraf Elnahtawy
+ORG:Gulf Engineering S.P.C
+TITLE:General Manager
+TEL;type=Work:+968 7962 9877
+TEL;type=Work;waid=96876981255:+968 7698 1255
+item1.URL:www.gulfengineeringspc.com
+item1.X-ABLabel:OTHER
+EMAIL;TYPE=Home:anahtawy@gulfengineeringspc.com
+item2.ADR;type=Home:;;Flat 22، Nov 18 Road,  Azaiba;Muscat;;;Oman
+item2.X-ABADR:
+END:VCARD
